@@ -9,3 +9,4 @@ short_description: Draw a digit 0-9 and let AI classify it.
 
 # 🔢 Digit Recognizer
 Draw any digit (0–9) on the canvas and click Predict.
+You can see the Live Demo here: https://ajinkya007-my-handwrittendigit-recognizer.hf.space
