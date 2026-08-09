@@ -1,12 +1,8 @@
 ---
 title: Digit Recognizer
-emoji: 🔢
-colorFrom: blue
-colorTo: yellow
 sdk: gradio
 sdk_version: "5.29.0"
 app_file: app.py
-pinned: false
 license: apache-2.0
 short_description: Draw a digit 0-9 and let AI classify it.
 ---
