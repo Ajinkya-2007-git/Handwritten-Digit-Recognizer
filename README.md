@@ -1,14 +1,3 @@
----
-title: Digit Recognizer
-emoji: 🔢
-colorFrom: indigo
-colorTo: pink
-sdk: gradio
-sdk_version: 5.0.0
-app_file: app.py
-pinned: false
----
-
 # 🔢 Digit Recognizer
 
 A handwritten digit recognizer built with Gradio. Draw a digit from 0 to 9 on the canvas, click **Predict**, and a pretrained neural network tells you what it sees, along with a confidence score for every digit.
